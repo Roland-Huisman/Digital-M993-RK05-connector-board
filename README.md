@@ -15,7 +15,12 @@ connected to AU1 and at another board it was connected to AU2.
 Use 90 degree connectors for J1 and J2 because of the limitid space in the drive!
 
 D1: 1n748a, 3,9 Volt zener diode
+
 R1: 470 Ohm
+
 Q1: BC557
+
 R2,3,4: 0 Ohm resistor or wire
+
 J1, J2: XG4A-4034 (90 degree 40 pin connector)
+
