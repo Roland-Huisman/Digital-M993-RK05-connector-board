@@ -5,8 +5,10 @@ This is a replacement board for the Digital M993 cable PCB.
 I've found two versions of the board which I combined in one board.
 So you can built the board in two ways. 
 
-1: You can place R2 and leave out Q1, R1, D1 and U1. 
-Or 
+1: You can place R2 and leave out Q1, R1, D1 and U1.
+
+Or
+
 2: You can place Q1, R1, D1 and U1 and leave out R2.
 
 I think DEC had some problems driving this signal at a certain amount drives.
